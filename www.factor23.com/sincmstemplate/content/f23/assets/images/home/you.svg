@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg width="79px" height="92px" viewBox="0 0 79 92" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg">
+  <desc>Created with Lunacy</desc>
+  <defs>
+    <linearGradient x1="-1.63375568" y1="-3.91579342" x2="2.26217127" y2="4.558099" id="gradient_1">
+      <stop offset="0" stop-color="#69FF97" />
+      <stop offset="1" stop-color="#00E4FF" />
+    </linearGradient>
+    <linearGradient x1="0.08069947" y1="-0.0629251748" x2="1.36445308" y2="1.36801457" id="gradient_2">
+      <stop offset="0" stop-color="#69FF97" />
+      <stop offset="1" stop-color="#00E4FF" />
+    </linearGradient>
+    <linearGradient x1="-1.63377106" y1="-2.61174917" x2="1.60704565" y2="2.216134" id="gradient_3">
+      <stop offset="0" stop-color="#69FF97" />
+      <stop offset="1" stop-color="#00E4FF" />
+    </linearGradient>
+    <path d="M9.749 0C4.373 0 0 4.373 0 9.749L0 9.749L0 15.059L4.362 15.059L4.362 9.749C4.362 6.778 6.778 4.362 9.749 4.362L9.749 4.362L12.239 4.362C15.208 4.362 17.625 6.778 17.625 9.749L17.625 9.749L17.625 15.059L21.987 15.059L21.987 9.749C21.987 4.373 17.614 0 12.239 0L12.239 0L9.749 0Z" transform="translate(0.068 0.154)" id="path_1" />
+    <path d="M1.728 42.23L13.069 0L66.726 0L60.753 8.134L49.793 23.055L64.38 23.055L11.44 89.178L21.412 48.665L0 48.665L1.728 42.23ZM56.634 5.11L16.987 5.11L6.663 43.556L27.932 43.556L21.943 67.883L53.743 28.165L39.702 28.165L56.634 5.11Z" transform="translate(0 0.693)" id="path_2" />
+    <path d="M5.395 0C2.415 0 0 2.415 0 5.395L0 5.395L0 28.024L28.024 28.024L28.024 5.395C28.024 2.415 25.608 0 22.629 0L22.629 0L5.395 0Z" transform="translate(0.05 0.976)" id="path_3" />
+    <clipPath id="mask_1">
+      <use xlink:href="#path_1" />
+    </clipPath>
+    <clipPath id="mask_2">
+      <use xlink:href="#path_2" />
+    </clipPath>
+    <clipPath id="mask_3">
+      <use xlink:href="#path_3" />
+    </clipPath>
+  </defs>
+  <g id="THUNDER_ICON_1">
+    <g id="Group-10">
+      <g id="Group-3" transform="translate(53 46.3068)">
+        <path d="M9.749 0C4.373 0 0 4.373 0 9.749L0 9.749L0 15.059L4.362 15.059L4.362 9.749C4.362 6.778 6.778 4.362 9.749 4.362L9.749 4.362L12.239 4.362C15.208 4.362 17.625 6.778 17.625 9.749L17.625 9.749L17.625 15.059L21.987 15.059L21.987 9.749C21.987 4.373 17.614 0 12.239 0L12.239 0L9.749 0Z" transform="translate(0.068 0.154)" id="Clip-2" fill="none" stroke="none" />
+        <g clip-path="url(#mask_1)">
+          <path d="M9.749 0C4.373 0 0 4.373 0 9.749L0 9.749L0 15.059L4.362 15.059L4.362 9.749C4.362 6.778 6.778 4.362 9.749 4.362L9.749 4.362L12.239 4.362C15.208 4.362 17.625 6.778 17.625 9.749L17.625 9.749L17.625 15.059L21.987 15.059L21.987 9.749C21.987 4.373 17.614 0 12.239 0L12.239 0L9.749 0Z" transform="translate(0.068 0.154)" id="Fill-1" fill="url(#gradient_1)" stroke="none" />
+        </g>
+      </g>
+      <g id="Group-6" transform="translate(0 0.3068)">
+        <path d="M1.728 42.23L13.069 0L66.726 0L60.753 8.134L49.793 23.055L64.38 23.055L11.44 89.178L21.412 48.665L0 48.665L1.728 42.23ZM56.634 5.11L16.987 5.11L6.663 43.556L27.932 43.556L21.943 67.883L53.743 28.165L39.702 28.165L56.634 5.11Z" transform="translate(0 0.693)" id="Clip-5" fill="none" fill-rule="evenodd" stroke="none" />
+        <g clip-path="url(#mask_2)">
+          <path d="M1.728 42.23L13.069 0L66.726 0L60.753 8.134L49.793 23.055L64.38 23.055L11.44 89.178L21.412 48.665L0 48.665L1.728 42.23ZM56.634 5.11L16.987 5.11L6.663 43.556L27.932 43.556L21.943 67.883L53.743 28.165L39.702 28.165L56.634 5.11Z" transform="translate(0 0.693)" id="Fill-4" fill="url(#gradient_2)" fill-rule="evenodd" stroke="none" />
+        </g>
+      </g>
+      <g id="Group-9" transform="translate(50 62.3068)">
+        <path d="M5.395 0C2.415 0 0 2.415 0 5.395L0 5.395L0 28.024L28.024 28.024L28.024 5.395C28.024 2.415 25.608 0 22.629 0L22.629 0L5.395 0Z" transform="translate(0.05 0.976)" id="Clip-8" fill="none" stroke="none" />
+        <g clip-path="url(#mask_3)">
+          <path d="M5.395 0C2.415 0 0 2.415 0 5.395L0 5.395L0 28.024L28.024 28.024L28.024 5.395C28.024 2.415 25.608 0 22.629 0L22.629 0L5.395 0Z" transform="translate(0.05 0.976)" id="Fill-7" fill="url(#gradient_3)" stroke="none" />
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

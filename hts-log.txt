@@ -1,0 +1,51 @@
+HTTrack3.49-2 launched on Wed, 03 Aug 2022 10:39:28 at https://www.factor23.com +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/*
+(webhttrack -q -%i -w https://www.factor23.com -O "/home/riccardo/httrack-websites/factor23.com" -n -%P -N0 -s2 -p7 -D -a -K0 -c4 -%k -A25000 -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -%s -%u )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+10:39:31	Warning: 	Moved Permanently for https://www.factor23.com/
+10:39:31	Warning: 	File has moved from https://www.factor23.com/ to /it/home
+10:42:32	Error: 	"Authorization Required" (401) at link https://www.factor23.com/user/ws/auth/login (from https://www.factor23.com/it/home)
+10:42:53	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js
+10:42:55	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://www.factor23.com/sincmstemplate/content/f23/assets/js/particles_effect.js
+10:42:56	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://www.factor23.com/sincmstemplate/content/f23/assets/js/plugins.js
+10:43:03	Error: 	"Not Found" (404) at link https://www.factor23.com/assets/images/favicon/apple-icon-76x76.png (from https://www.factor23.com/it/home)
+10:43:10	Error: 	"Not Found" (404) at link https://www.factor23.com/ms-icon-144x144.png (from https://www.factor23.com/it/home)
+10:43:22	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://www.factor23.com/sincmstemplate/content/f23/assets/css/fonts/font-icons.eot
+10:43:34	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://fonts.googleapis.com/icon?family=Material+Icons
+10:44:11	Warning: 	HTML file (61039 bytes) retransferred due to lack of cache: https://www.factor23.com/it/faq
+10:44:12	Warning: 	HTML file (58560 bytes) retransferred due to lack of cache: https://www.factor23.com/omega-3-sportivi
+10:44:13	Warning: 	HTML file (61469 bytes) retransferred due to lack of cache: https://www.factor23.com/cronobiologia-allenamento-sport
+10:44:14	Warning: 	HTML file (59096 bytes) retransferred due to lack of cache: https://www.factor23.com/alimentazione-sonno-sportivi
+10:44:15	Warning: 	HTML file (60374 bytes) retransferred due to lack of cache: https://www.factor23.com/curcuma-importante-sportivi
+10:44:16	Warning: 	HTML file (56094 bytes) retransferred due to lack of cache: https://www.factor23.com/factor-23-articolo-scifondo
+10:44:17	Warning: 	HTML file (48155 bytes) retransferred due to lack of cache: https://www.factor23.com/it/privacy
+10:44:18	Error: 	"Not Found" (404) at link https://www.factor23.com/sincmstemplate/content/f23/assets/css/fonts/Simple-Line-Icons.eot (from https://www.factor23.com/sincmstemplate/content/f23/assets/css/font-icons.css)
+10:44:18	Error: 	"Not Found" (404) at link https://www.factor23.com/sincmstemplate/content/f23/assets/css/fonts/Simple-Line-Icons.eot? (from https://www.factor23.com/sincmstemplate/content/f23/assets/css/font-icons.css)
+10:44:18	Error: 	"Not Found" (404) at link https://www.factor23.com/sincmstemplate/content/f23/assets/css/fonts/Simple-Line-Icons.woff (from https://www.factor23.com/sincmstemplate/content/f23/assets/css/font-icons.css)
+10:44:18	Error: 	"Not Found" (404) at link https://www.factor23.com/sincmstemplate/content/f23/assets/css/fonts/Simple-Line-Icons.ttf (from https://www.factor23.com/sincmstemplate/content/f23/assets/css/font-icons.css)
+10:44:18	Error: 	"Not Found" (404) at link https://www.factor23.com/sincmstemplate/content/f23/assets/css/fonts/Simple-Line-Icons.svg (from https://www.factor23.com/sincmstemplate/content/f23/assets/css/font-icons.css)
+10:44:18	Error: 	"Not Found" (404) at link https://www.factor23.com/sincmstemplate/content/f23/assets/css/et-line/et-line.eot (from https://www.factor23.com/sincmstemplate/content/f23/assets/css/et-line.css)
+10:44:18	Error: 	"Not Found" (404) at link https://www.factor23.com/sincmstemplate/content/f23/assets/css/et-line/et-line.eot? (from https://www.factor23.com/sincmstemplate/content/f23/assets/css/et-line.css)
+10:44:18	Error: 	"Not Found" (404) at link https://www.factor23.com/sincmstemplate/content/f23/assets/css/et-line/et-line.woff (from https://www.factor23.com/sincmstemplate/content/f23/assets/css/et-line.css)
+10:44:18	Error: 	"Not Found" (404) at link https://www.factor23.com/sincmstemplate/content/f23/assets/css/et-line/et-line.ttf (from https://www.factor23.com/sincmstemplate/content/f23/assets/css/et-line.css)
+10:44:18	Error: 	"Not Found" (404) at link https://www.factor23.com/sincmstemplate/content/f23/assets/css/et-line/et-line.svg (from https://www.factor23.com/sincmstemplate/content/f23/assets/css/et-line.css)
+10:44:18	Error: 	"Not Found" (404) at link https://www.factor23.com/sincmstemplate/content/f23/assets/css/images/icons/submenu.png (from https://www.factor23.com/sincmstemplate/content/f23/assets/css/style.css)
+10:44:18	Error: 	"Not Found" (404) at link https://www.factor23.com/sincmstemplate/content/f23/assets/css/images/icons/menu-divider.png (from https://www.factor23.com/sincmstemplate/content/f23/assets/css/style.css)
+10:44:18	Error: 	"Not Found" (404) at link https://www.factor23.com/sincmstemplate/content/f23/assets/css/images/icons/close.png (from https://www.factor23.com/sincmstemplate/content/f23/assets/css/style.css)
+10:44:18	Error: 	"Not Found" (404) at link https://www.factor23.com/sincmstemplate/content/f23/assets/css/images/pattern2.png (from https://www.factor23.com/sincmstemplate/content/f23/assets/css/style.css)
+10:44:18	Error: 	"Not Found" (404) at link https://www.factor23.com/sincmstemplate/content/f23/assets/css/images/grid.png (from https://www.factor23.com/sincmstemplate/content/f23/assets/css/style.css)
+10:44:18	Error: 	"Not Found" (404) at link https://www.factor23.com/sincmstemplate/content/f23/assets/css/images/pattern.png (from https://www.factor23.com/sincmstemplate/content/f23/assets/css/style.css)
+10:44:18	Error: 	"Not Found" (404) at link https://www.factor23.com/sincmstemplate/content/f23/assets/css/images/parallax/parallax-bg.jpg (from https://www.factor23.com/sincmstemplate/content/f23/assets/css/style.css)
+10:44:18	Error: 	"Not Found" (404) at link https://www.factor23.com/sincmstemplate/content/f23/assets/css/images/icons/iconalt.svg (from https://www.factor23.com/sincmstemplate/content/f23/assets/css/style.css)
+10:44:18	Error: 	"Not Found" (404) at link https://www.factor23.com/sincmstemplate/content/f23/assets/css/images/preloader.gif (from https://www.factor23.com/sincmstemplate/content/f23/assets/css/style.css)
+10:44:18	Error: 	"Not Found" (404) at link https://www.factor23.com/sincmstemplate/content/f23/assets/css/images/icons/play.png (from https://www.factor23.com/sincmstemplate/content/f23/assets/css/style.css)
+10:44:18	Error: 	"Not Found" (404) at link https://www.factor23.com/sincmstemplate/content/f23/assets/css/images/icons/dotted.png (from https://www.factor23.com/sincmstemplate/content/f23/assets/css/style.css)
+10:44:18	Error: 	"Not Found" (404) at link https://www.factor23.com/sincmstemplate/content/f23/assets/css/images/icons/widget-comment.png (from https://www.factor23.com/sincmstemplate/content/f23/assets/css/style.css)
+10:44:18	Error: 	"Not Found" (404) at link https://www.factor23.com/sincmstemplate/content/f23/assets/css/images/icons/widget-link.png (from https://www.factor23.com/sincmstemplate/content/f23/assets/css/style.css)
+
+HTTrack Website Copier/3.49-2 mirror complete in 4 minutes 50 seconds : 256 links scanned, 239 files written (30934173 bytes overall) [25713059 bytes received at 88665 bytes/sec], 7382640 bytes transferred using HTTP compression in 88 files, ratio 27%, 1.0 requests per connection
+(26 errors, 14 warnings, 0 messages)

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg width="164px" height="164px" viewBox="0 0 164 164" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg">
+  <desc>Created with Lunacy</desc>
+  <defs>
+    <linearGradient x1="0.0625976548" y1="0" x2="0.7736328" y2="1" id="gradient_1">
+      <stop offset="0" stop-color="#48E38B" stop-opacity="0.121568628" />
+      <stop offset="1" stop-color="#48B9D4" stop-opacity="0.8980392" />
+    </linearGradient>
+    <linearGradient x1="0.5" y1="0" x2="0.5" y2="1" id="gradient_2">
+      <stop offset="0" stop-color="#48E38B" />
+      <stop offset="1" stop-color="#48B9D4" />
+    </linearGradient>
+  </defs>
+  <path d="M80 0L149.282 40L149.282 120L80 160L10.718 120L10.718 40L80 0Z" transform="translate(2 2)" id="Polygon-Copy-3" fill="url(#gradient_1)" fill-opacity="0.7" stroke="url(#gradient_2)" stroke-width="4" />
+</svg>
